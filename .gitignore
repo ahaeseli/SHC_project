@@ -1,0 +1,20 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.env/
+.venv/
+venv/
+
+# Logs
+*.log
+
+# IDE/editor configs
+.vscode/
+.idea/
+
+# Test/output files
+htmlcov/
+*.cover
+coverage.xml
