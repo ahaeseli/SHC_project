@@ -44,8 +44,8 @@ def recip_comp_SP(param, refrigerant, transcrit=False):
     eta_is = a0 - (0.6)/((p_ratio - a1)**(a2*(p_suc*1e2))) - a3*p_ratio**1.8
 
     # mass flow for f_elec = 48.33 Hz and D = 50 mm, H = 39.3 mm, 4 cylinders
-    m_dot = 1./z_e['v']*eta_vol*(np.pi/4.*(50.e-3)**2.*(39.3e-3))*48.55/2.*4 # Der Verdichter hat zwei Zylinder aber die mechanische Frequenz entspricht nur der Hälfte der elektrischen Frequenz
+    #m_dot = 1./z_e['v']*eta_vol*(np.pi/4.*(50.e-3)**2.*(39.3e-3))*48.55/2.*4 # Der Verdichter hat zwei Zylinder aber die mechanische Frequenz entspricht nur der Hälfte der elektrischen Frequenz
     # adapt m_dot to D
-    m_dot = m_dot * (_D*1e-3 / 50.e-3) ** 2
+    #m_dot = m_dot * (_D*1e-3 / 50.e-3) ** 2
 
-    return eta_is, m_dot
+    return eta_is
