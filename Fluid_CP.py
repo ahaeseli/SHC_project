@@ -10,6 +10,9 @@ Script includes to functions for external call:
     state --> call os state variables
     get_fluid_info --> returns fluid information
 """
+from pylab import *
+import CoolProp.CoolProp as CP
+import pandas as pd
 
 dTk=273.15
 

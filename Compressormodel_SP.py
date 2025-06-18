@@ -4,7 +4,11 @@ Created on Tue Nov  3 20:15:13 2020
 
 @author: droskosch
 """
+import numpy as np
 
+import Fluid_CP as FCP
+
+import CoolProp.CoolProp as CP
 
 R=8.3145
 
