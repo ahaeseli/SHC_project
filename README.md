@@ -1,5 +1,5 @@
 # SHC_project
-Repository for the project in the course: Sustainable Heating &amp; Cooling Technologies at ETH. This project's aim is to develop a heat pump system for a pasta cooker related to a student project. The used libraries were introduced in the lecture except for one. To run the file **`First_Analysis/`** the optimizer **Gurobi** as it is our prefered optimizer and we wanted to get an idea of the problem as fast as possible (**Gurobi** with very low runtime).
+Repository for the project in the course: Sustainable Heating &amp; Cooling Technologies at ETH. This project's aim is to develop a heat pump system for a pasta cooker related to a student project. The used libraries were introduced in the lecture except for two (but both not directly relevant for the heat pump design). To run the file **`First_Analysis/`** and  **`Finding_Cut_off_for_control/`** the optimizer **Gurobi** as it is our prefered optimizer and we wanted to get an idea of the problem as fast as possible (**Gurobi** with very low runtime).
 
 ---
 ## Project Structure
