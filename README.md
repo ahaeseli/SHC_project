@@ -7,6 +7,8 @@ Repository for the project in the course: Sustainable Heating &amp; Cooling Tech
 - **`First_Analysis/`**: Contains a thorough analysis of the stated problems. Several scenarios were simulated and optimized for, to get a good idea of the system's dynamics. 
 - **`main/`**: Contains the heat pump design. The design is optimized for different compressor tube diameters and refrigerants, where one configuration was chosen. The operation strategy for the chosen configuration is also included. 
 - **`functions/`**: Contains the functions needed for the heat pump design and analysis.
+- **`Finding_Cut_off_for_control/`**: Contains the scenario analysis which is introduced in **`First_Analysis/`**. It stores the data needed for the controlling system in **`controlling_temperature_off_for_fixed_Q/`**.
+- **`controlling_temperature_off_for_fixed_Q/`**: Contains the temperature data at which the heat pump is to be turned off depending on the nominal power (used for heat pump design selection see in **`main/`**).
 - **`results/`**: Contains the csv files with the results.
 - **`figures/`**: Contains the figures used in the report.
 - **`requirements.txt`**: Lists all Python packages required to run the code.
