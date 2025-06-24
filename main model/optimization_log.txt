@@ -1,0 +1,3 @@
+T_on = 86.94, T_off = 88.34, Power = 62682.78 kWh
+T_on = 87.19, T_off = 88.34, Power = 62458.39 kWh
+T_on = 86.94, T_off = 88.59, Power = 62059.37 kWh
