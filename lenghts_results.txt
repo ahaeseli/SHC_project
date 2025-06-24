@@ -1,6 +1,0 @@
-{35: {'Isobutane': {'COP': 2.12, 'length': 66.15, 'heat': 3.614}, 'Butane': {}, 'Isobutene': {'COP': 2.27, 'length': 65.163, 'heat': 3.614}, 'DimethylEther': {'COP': 1.87, 'length': 53.691, 'heat': 3.614}}, 
-40: {'Isobutane': {'COP': 1.92, 'length': 66.15, 'heat': 3.614}, 'Butane': {'COP': 2.18, 'length': 65.764, 'heat': 3.614}, 'Isobutene': {'COP': 2.05, 'length': 63.505, 'heat': 3.614}, 'DimethylEther': {'COP': 1.72, 'length': 50.488, 'heat': 3.614}}, 
-45: {'Isobutane': {'COP': 1.77, 'length': 66.15, 'heat': 3.614}, 'Butane': {'COP': 1.98, 'length': 64.223, 'heat': 3.614}, 'Isobutene': {'COP': 1.88, 'length': 61.367, 'heat': 3.614}, 'DimethylEther': {'COP': 1.61, 'length': 47.11, 'heat': 3.614}}, 
-50: {'Isobutane': {'COP': 1.64, 'length': 63.853, 'heat': 3.614}, 'Butane': {'COP': 1.82, 'length': 62.106, 'heat': 3.614}, 'Isobutene': {'COP': 1.74, 'length': 58.715, 'heat': 3.614}, 'DimethylEther': {'COP': 1.52, 'length': 43.644, 'heat': 3.614}}}
-
-at T_si_in = 87
