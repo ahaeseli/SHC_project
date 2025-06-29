@@ -9,6 +9,8 @@ Repository for the project in the course: Sustainable Heating &amp; Cooling Tech
 
 ---
 
+further remarks about the notebooks can be found in the Appendix of the project report.
+
 ## Contributors
 
 - Alessio Häseli
